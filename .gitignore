@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Output files
+output/*.mp4
+output/*.pt
+output/*.csv
+
+# Data files
+data/*.mp4
+data/*.pt
