@@ -16,7 +16,6 @@ player_reid_system/
 ├── output/
 │   ├── detections_broadcast.csv
 │   ├── detections_tacticam.csv
-```
 │   ├── tracks_broadcast.csv
 │   ├── tracks_tacticam.csv
 │   ├── features_broadcast.csv
